@@ -1,0 +1,187 @@
+{
+ "run": "10m_20",
+ "context_tokens": 10485760,
+ "filings_end_char": 41046560,
+ "needles": [
+  {
+   "needle": 0,
+   "shape": "common",
+   "office": "Lyon",
+   "code": "DELTA-5033-CANYON",
+   "depth": 0.05,
+   "char_offset": 2160441,
+   "question": "Above is a long collection of filings. What is the vault access code for the Lyon office? Answer with the code only."
+  },
+  {
+   "needle": 1,
+   "shape": "rare",
+   "office": "Perth",
+   "code": "OKAPI-6723-VERDIGRIS",
+   "depth": 0.097,
+   "char_offset": 4208841,
+   "question": "Above is a long collection of filings. What is the vault access code for the Perth office? Answer with the code only."
+  },
+  {
+   "needle": 2,
+   "shape": "letters",
+   "office": "Valencia",
+   "code": "DZNR-9326-WTM",
+   "depth": 0.145,
+   "char_offset": 6466047,
+   "question": "Above is a long collection of filings. What is the vault access code for the Valencia office? Answer with the code only."
+  },
+  {
+   "needle": 3,
+   "shape": "numbers",
+   "office": "Ghent",
+   "code": "112-81-5948",
+   "depth": 0.192,
+   "char_offset": 8477962,
+   "question": "Above is a long collection of filings. What is the vault access code for the Ghent office? Answer with the code only."
+  },
+  {
+   "needle": 4,
+   "shape": "common",
+   "office": "Plovdiv",
+   "code": "MERIDIAN-5772-GLACIER",
+   "depth": 0.239,
+   "char_offset": 10269686,
+   "question": "Above is a long collection of filings. What is the vault access code for the Plovdiv office? Answer with the code only."
+  },
+  {
+   "needle": 5,
+   "shape": "rare",
+   "office": "Calgary",
+   "code": "OKAPI-0227-MAUVE",
+   "depth": 0.287,
+   "char_offset": 11989331,
+   "question": "Above is a long collection of filings. What is the vault access code for the Calgary office? Answer with the code only."
+  },
+  {
+   "needle": 6,
+   "shape": "letters",
+   "office": "Rotterdam",
+   "code": "MJRZ-5566-NHG",
+   "depth": 0.334,
+   "char_offset": 13914235,
+   "question": "Above is a long collection of filings. What is the vault access code for the Rotterdam office? Answer with the code only."
+  },
+  {
+   "needle": 7,
+   "shape": "numbers",
+   "office": "Naples",
+   "code": "6065-0853-2994",
+   "depth": 0.382,
+   "char_offset": 15870466,
+   "question": "Above is a long collection of filings. What is the vault access code for the Naples office? Answer with the code only."
+  },
+  {
+   "needle": 8,
+   "shape": "common",
+   "office": "Szeged",
+   "code": "COMET-3596-BEACON",
+   "depth": 0.429,
+   "char_offset": 17903581,
+   "question": "Above is a long collection of filings. What is the vault access code for the Szeged office? Answer with the code only."
+  },
+  {
+   "needle": 9,
+   "shape": "rare",
+   "office": "Ljubljana",
+   "code": "IBIS-3122-SEPIA",
+   "depth": 0.476,
+   "char_offset": 19746530,
+   "question": "Above is a long collection of filings. What is the vault access code for the Ljubljana office? Answer with the code only."
+  },
+  {
+   "needle": 10,
+   "shape": "letters",
+   "office": "Graz",
+   "code": "SGR-5710-CGLW",
+   "depth": 0.524,
+   "char_offset": 21412094,
+   "question": "Above is a long collection of filings. What is the vault access code for the Graz office? Answer with the code only."
+  },
+  {
+   "needle": 11,
+   "shape": "numbers",
+   "office": "Bergen",
+   "code": "583-19-9567",
+   "depth": 0.571,
+   "char_offset": 23231299,
+   "question": "Above is a long collection of filings. What is the vault access code for the Bergen office? Answer with the code only."
+  },
+  {
+   "needle": 12,
+   "shape": "common",
+   "office": "Denver",
+   "code": "NEBULA-1508-BEACON",
+   "depth": 0.618,
+   "char_offset": 25355027,
+   "question": "Above is a long collection of filings. What is the vault access code for the Denver office? Answer with the code only."
+  },
+  {
+   "needle": 13,
+   "shape": "rare",
+   "office": "Cusco",
+   "code": "CASSOWARY-1512-SEPIA",
+   "depth": 0.666,
+   "char_offset": 27282496,
+   "question": "Above is a long collection of filings. What is the vault access code for the Cusco office? Answer with the code only."
+  },
+  {
+   "needle": 14,
+   "shape": "letters",
+   "office": "Osaka",
+   "code": "XXL-9681-XLBK",
+   "depth": 0.713,
+   "char_offset": 29078573,
+   "question": "Above is a long collection of filings. What is the vault access code for the Osaka office? Answer with the code only."
+  },
+  {
+   "needle": 15,
+   "shape": "numbers",
+   "office": "Utrecht",
+   "code": "285-87-2962",
+   "depth": 0.761,
+   "char_offset": 31117013,
+   "question": "Above is a long collection of filings. What is the vault access code for the Utrecht office? Answer with the code only."
+  },
+  {
+   "needle": 16,
+   "shape": "common",
+   "office": "Omaha",
+   "code": "OPAL-6486-NEBULA",
+   "depth": 0.808,
+   "char_offset": 33143772,
+   "question": "Above is a long collection of filings. What is the vault access code for the Omaha office? Answer with the code only."
+  },
+  {
+   "needle": 17,
+   "shape": "rare",
+   "office": "Aarhus",
+   "code": "TAPIR-0280-ULTRAMARINE",
+   "depth": 0.855,
+   "char_offset": 34990745,
+   "question": "Above is a long collection of filings. What is the vault access code for the Aarhus office? Answer with the code only."
+  },
+  {
+   "needle": 18,
+   "shape": "letters",
+   "office": "Quebec",
+   "code": "DMKT-7787-JLB",
+   "depth": 0.903,
+   "char_offset": 36901553,
+   "question": "Above is a long collection of filings. What is the vault access code for the Quebec office? Answer with the code only."
+  },
+  {
+   "needle": 19,
+   "shape": "numbers",
+   "office": "Austin",
+   "code": "47620-16404",
+   "depth": 0.95,
+   "char_offset": 38825093,
+   "question": "Above is a long collection of filings. What is the vault access code for the Austin office? Answer with the code only."
+  }
+ ]
+}

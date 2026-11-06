@@ -1,0 +1,50 @@
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 0, "shape": "common", "code": "DELTA-5033-CANYON", "depth": 0.05, "answer": "DELTA-5033-CANYON", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 1, "shape": "rare", "code": "OKAPI-6723-VERDIGRIS", "depth": 0.068, "answer": "OKAPI-6723-VERDIGRIS", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 2, "shape": "letters", "code": "DZNR-9326-WTM", "depth": 0.087, "answer": "DZNR-9326-WTM", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 3, "shape": "numbers", "code": "112-81-5948", "depth": 0.105, "answer": "112-81-5948", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 4, "shape": "common", "code": "MERIDIAN-5772-GLACIER", "depth": 0.123, "answer": "MERIDIAN-5772-GLACIER", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 5, "shape": "rare", "code": "OKAPI-0227-MAUVE", "depth": 0.142, "answer": "OKAPI-0227-MAUVE", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 6, "shape": "letters", "code": "MJRZ-5566-NHG", "depth": 0.16, "answer": "MJRZ-5566-NHG", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 7, "shape": "numbers", "code": "6065-0853-2994", "depth": 0.179, "answer": "OPAL-6486-NEBULA", "correct": false, "answered_other_memo": "OPAL-6486-NEBULA"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 8, "shape": "common", "code": "COMET-3596-BEACON", "depth": 0.197, "answer": "COMET-3596-BEACON", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 9, "shape": "rare", "code": "IBIS-3122-SEPIA", "depth": 0.215, "answer": "IBIS-3122-SEPIA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 10, "shape": "letters", "code": "SGR-5710-CGLW", "depth": 0.234, "answer": "SGR-5710-CGLW", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 11, "shape": "numbers", "code": "583-19-9567", "depth": 0.252, "answer": "47620-16404", "correct": false, "answered_other_memo": "47620-16404"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 12, "shape": "common", "code": "NEBULA-1508-BEACON", "depth": 0.27, "answer": "NEBULA-1508-BEACON", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 13, "shape": "rare", "code": "CASSOWARY-1512-SEPIA", "depth": 0.289, "answer": "CASSOWARY-1512-SEPIA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 14, "shape": "letters", "code": "XXL-9681-XLBK", "depth": 0.307, "answer": "XXL-9681-XLBK", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 15, "shape": "numbers", "code": "285-87-2962", "depth": 0.326, "answer": "285-87-2962", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 16, "shape": "common", "code": "OPAL-6486-NEBULA", "depth": 0.344, "answer": "OPAL-6486-NEBULA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 17, "shape": "rare", "code": "TAPIR-0280-ULTRAMARINE", "depth": 0.362, "answer": "TAPIR-0280-ULTRAMARINE", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 18, "shape": "letters", "code": "DMKT-7787-JLB", "depth": 0.381, "answer": "DMKT-7787-JLB", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 19, "shape": "numbers", "code": "47620-16404", "depth": 0.399, "answer": "47620-16404", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 20, "shape": "common", "code": "BEACON-4745-CEDAR", "depth": 0.417, "answer": "BEACON-4745-CEDAR", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 21, "shape": "rare", "code": "IBIS-8026-MAUVE", "depth": 0.436, "answer": "IBIS-8026-MAUVE", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 22, "shape": "letters", "code": "HJXN-9389-QDW", "depth": 0.454, "answer": "HJXN-9389-QDW", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 23, "shape": "numbers", "code": "233-05-6724", "depth": 0.472, "answer": "QUETZAL-8057-TAUPE", "correct": false, "answered_other_memo": "QUETZAL-8057-TAUPE"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 24, "shape": "common", "code": "COMET-0026-SUMMIT", "depth": 0.491, "answer": "COMET-0026-SUMMIT", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 25, "shape": "rare", "code": "QUETZAL-8057-TAUPE", "depth": 0.509, "answer": "QUETZAL-8057-TAUPE", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 26, "shape": "letters", "code": "JJGV-9726-VQHL", "depth": 0.528, "answer": "JJGV-9726-VQHL", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 27, "shape": "numbers", "code": "5415-3003-6045", "depth": 0.546, "answer": "5415-3003-6045", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 28, "shape": "common", "code": "CEDAR-7345-DELTA", "depth": 0.564, "answer": "CEDAR-7345-DELTA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 29, "shape": "rare", "code": "BINTURONG-5841-SAFFRON", "depth": 0.583, "answer": "BINTURONG-5841-SAFFRON", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 30, "shape": "letters", "code": "LXX-4416-VDV", "depth": 0.601, "answer": "47620-16404", "correct": false, "answered_other_memo": "47620-16404"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 31, "shape": "numbers", "code": "3673-7481-1986", "depth": 0.619, "answer": "416-59-3031", "correct": false, "answered_other_memo": "416-59-3031"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 32, "shape": "common", "code": "RAVEN-7917-RAVEN", "depth": 0.638, "answer": "RAVEN-7917-RAVEN", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 33, "shape": "rare", "code": "AARDWOLF-6663-TAUPE", "depth": 0.656, "answer": "AARDWOLF-8486-CINNABAR", "correct": false, "answered_other_memo": "AARDWOLF-8486-CINNABAR"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 34, "shape": "letters", "code": "GWX-9423-JLM", "depth": 0.674, "answer": "GWX-9423-JLM", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 35, "shape": "numbers", "code": "68035-67040", "depth": 0.693, "answer": "68035-67040", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 36, "shape": "common", "code": "COMET-4038-OPAL", "depth": 0.711, "answer": "COMET-4038-OPAL", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 37, "shape": "rare", "code": "BINTURONG-0205-OCHRE", "depth": 0.73, "answer": "BINTURONG-0205-OCHRE", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 38, "shape": "letters", "code": "TVGN-0357-WDH", "depth": 0.748, "answer": "TVGN-0357-WDH", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 39, "shape": "numbers", "code": "844-34-3469", "depth": 0.766, "answer": "844-34-3469", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 40, "shape": "common", "code": "BEACON-8189-WILLOW", "depth": 0.785, "answer": "BEACON-8189-WILLOW", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 41, "shape": "rare", "code": "AARDWOLF-8486-CINNABAR", "depth": 0.803, "answer": "AARDWOLF-8486-CINNABAR", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 42, "shape": "letters", "code": "WRX-6466-VMDL", "depth": 0.821, "answer": "WRX-6466-VMDL", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 43, "shape": "numbers", "code": "416-59-3031", "depth": 0.84, "answer": "416-59-3031", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 44, "shape": "common", "code": "RAVEN-8864-NEBULA", "depth": 0.858, "answer": "RAVEN-8864-NEBULA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 45, "shape": "rare", "code": "QUETZAL-4019-SEPIA", "depth": 0.877, "answer": "QUETZAL-4019-SEPIA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 46, "shape": "letters", "code": "ZTZ-9476-SPTM", "depth": 0.895, "answer": "ZTZ-9476-SPTM", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 47, "shape": "numbers", "code": "63454-08872", "depth": 0.913, "answer": "JJGV-9726-VQHL", "correct": false, "answered_other_memo": "JJGV-9726-VQHL"}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 48, "shape": "common", "code": "RAVEN-7601-TUNDRA", "depth": 0.932, "answer": "RAVEN-7601-TUNDRA", "correct": true}
+{"run": "10m_50_lookalike", "context_tokens": 10485760, "needle": 49, "shape": "rare", "code": "MARMOSET-0302-ULTRAMARINE", "depth": 0.95, "answer": "MARMOSET-0302-ULTRAMARINE", "correct": true}

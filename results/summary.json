@@ -1,0 +1,19 @@
+{
+ "10m_20": {
+  "context_tokens": 10485760,
+  "needles": 20,
+  "correct": 17,
+  "pass_at_3": 18,
+  "one_sample": 16
+ },
+ "88m_20": {
+  "context_tokens": 88000000,
+  "needles": 20,
+  "correct": 18
+ },
+ "10m_50_lookalike": {
+  "context_tokens": 10485760,
+  "needles": 50,
+  "correct": 43
+ }
+}

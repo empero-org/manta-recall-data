@@ -1,0 +1,20 @@
+{"run": "88m_20", "context_tokens": 88000000, "needle": 0, "shape": "common", "code": "DELTA-5033-CANYON", "depth": 0.05, "answer": "DELTA-5033-CANYON", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 1, "shape": "rare", "code": "OKAPI-6723-VERDIGRIS", "depth": 0.097, "answer": "DELTA-5033-CANYON", "correct": false, "answered_other_memo": "DELTA-5033-CANYON"}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 2, "shape": "letters", "code": "DZNR-9326-WTM", "depth": 0.145, "answer": "DZNR-9326-WTM", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 3, "shape": "numbers", "code": "112-81-5948", "depth": 0.192, "answer": "112-81-5948", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 4, "shape": "common", "code": "MERIDIAN-5772-GLACIER", "depth": 0.239, "answer": "MERIDIAN-5772-GLACIER", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 5, "shape": "rare", "code": "OKAPI-0227-MAUVE", "depth": 0.287, "answer": "OKAPI-0227-MAUVE", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 6, "shape": "letters", "code": "MJRZ-5566-NHG", "depth": 0.334, "answer": "DELTA-5033-CANYON", "correct": false, "answered_other_memo": "DELTA-5033-CANYON"}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 7, "shape": "numbers", "code": "6065-0853-2994", "depth": 0.382, "answer": "6065-0853-2994", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 8, "shape": "common", "code": "COMET-3596-BEACON", "depth": 0.429, "answer": "COMET-3596-BEACON", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 9, "shape": "rare", "code": "IBIS-3122-SEPIA", "depth": 0.476, "answer": "IBIS-3122-SEPIA", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 10, "shape": "letters", "code": "SGR-5710-CGLW", "depth": 0.524, "answer": "SGR-5710-CGLW", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 11, "shape": "numbers", "code": "583-19-9567", "depth": 0.571, "answer": "583-19-9567", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 12, "shape": "common", "code": "NEBULA-1508-BEACON", "depth": 0.618, "answer": "NEBULA-1508-BEACON", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 13, "shape": "rare", "code": "CASSOWARY-1512-SEPIA", "depth": 0.666, "answer": "CASSOWARY-1512-SEPIA", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 14, "shape": "letters", "code": "XXL-9681-XLBK", "depth": 0.713, "answer": "XXL-9681-XLBK", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 15, "shape": "numbers", "code": "285-87-2962", "depth": 0.761, "answer": "285-87-2962", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 16, "shape": "common", "code": "OPAL-6486-NEBULA", "depth": 0.808, "answer": "OPAL-6486-NEBULA", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 17, "shape": "rare", "code": "TAPIR-0280-ULTRAMARINE", "depth": 0.855, "answer": "TAPIR-0280-ULTRAMARINE", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 18, "shape": "letters", "code": "DMKT-7787-JLB", "depth": 0.903, "answer": "DMKT-7787-JLB", "correct": true}
+{"run": "88m_20", "context_tokens": 88000000, "needle": 19, "shape": "numbers", "code": "47620-16404", "depth": 0.95, "answer": "47620-16404", "correct": true}
